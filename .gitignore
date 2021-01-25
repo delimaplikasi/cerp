@@ -1,0 +1,12 @@
+/vendor/
+/composer.lock
+
+/app/Config/Database.php
+
+/public/assets/debugbar
+
+/temp/debugbar/*
+!/temp/debugbar/index.html
+
+/temp/session/*
+!/temp/session/index.html
